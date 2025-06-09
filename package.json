@@ -1,0 +1,8 @@
+{
+  "name": "redirector",
+  "version": "1.0.0",
+  "description": "html redirector for permaweb",
+  "scripts": {
+    "build": "echo 'no build step'"
+  }
+}
